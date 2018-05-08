@@ -11,42 +11,47 @@
 		<br />
 		(Title) README TEMPLATE
 	</h2>
-	:snowflake:<p align="center">(Subtitle) GitHub README template</p>
+	:snowflake::rocket:<p align="center">(Subtitle) GitHub README template</p>
 
 [![BADGE](https://img.shields.io/badge/LICENSE-MIT-blue.svg?longCache=true&style=flat-square)]() [![Travis](https://img.shields.io/badge/BUILD-Passing-green.svg?longCache=true&style=flat-square)]()
+<!-- Update to dynamic badges -->
 </div>
+
+
 
 ---
 
-### Synopsis
-`(Simple Description)`
+### Overview (or Synopsis)
+`[Simple Description]`
 This is a simple markdown template.
 
 
-### Contributors
+### Contributor(s)
 - **Jiho Choi** - [GitHub](https://github.com/jihochoi)
 
 
 ### Development
-- `(Env)`
+- `[Env]`
 - GNU GCC
 - Apache Maven
 
 
 ### Build (or Installation)
 ```
+$ `[Build Instructions]`
 $ Make
 ```
 
 
 ### Usage
-> `(USAGE)`
-> Replace all (word) with the corresponding project descriptions
+> `[USAGE]`  
+> Replace all `[word]` with the corresponding project descriptions  
 > Git clone
 
 
 ### Contents
-- `(file)`: (description)
+- `[file]`: [description]
+- `factory.cpp`:
 
 
 ### Acknowledgments
